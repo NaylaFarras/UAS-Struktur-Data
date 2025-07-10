@@ -6,4 +6,3 @@ SISTEM MANAJEMEN KEUANGAN PRIBADI BERBASIS PYTHON
 **Kelas** : IF24D
 **Mata Kuliah** : Struktur Data
 
-
